@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ansar Khan
-- 👀 I’m interested in developing web application and learning new technologies
+- 👀 I’m interested in developing software application and learning new technologies
 - 🌱 I’m currently learning Angular and Android Development
 
 <!---
