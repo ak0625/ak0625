@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ansar Khan
+- 👋 Hi, I’m Ansar Khan, Software Developer at Uline
 - 👀 I’m interested in developing software application and learning new technologies
 - 🌱 Skills : Angular, Java, TypeScript, JavaScript, React, Python, SpringBoot, Django, Flask, Android Development, Cassandra, SQL, HTML/CSS, DataStax, 
 - 🌱 Currently Learning Amazon Web Services (AWS)
